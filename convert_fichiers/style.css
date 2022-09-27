@@ -1,0 +1,28 @@
+body {
+  background:url("fleche.png") no-repeat center 220px white;
+  color:black;
+}
+
+h1 {
+  text-align:center;
+  color:black;
+}
+
+.out {
+  margin-top:80px;
+  color:#CFEB9E;
+}
+
+#main {
+  width:600px;
+  margin:0 auto;
+  text-align:center;
+}
+
+.button {
+margin-top:65px;
+}
+
+.in {
+color:#BEE3FF;
+}
